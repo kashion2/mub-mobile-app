@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296632689669",
+    "project_id": "mub-accessibility-system",
+    "storage_bucket": "mub-accessibility-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296632689669:android:c705fc5e52f7b61a74e86c",
+        "android_client_info": {
+          "package_name": "com.mubmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296632689669-dea4ceket4r84ihcai2gva36lme20hf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC97fx3EjwWdolv6Tptb4wnmDrRauaWILk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296632689669-dea4ceket4r84ihcai2gva36lme20hf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
